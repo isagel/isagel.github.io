@@ -17,6 +17,8 @@
 ![Лабораторная 2]()
 ![скрин1лаба2](https://user-images.githubusercontent.com/36085908/68924559-2c6a3900-0792-11ea-874d-b4047f87e35b.png)
 
+![скрин2лаба2](https://user-images.githubusercontent.com/36085908/68924603-43109000-0792-11ea-8364-0a7b0a3972a5.png)
+
 
 ## Лабораторная 3
 
