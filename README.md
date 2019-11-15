@@ -19,7 +19,8 @@
 
 ![скрин2лаба2](https://user-images.githubusercontent.com/36085908/68924603-43109000-0792-11ea-8364-0a7b0a3972a5.png)
 
-![скрин3лаба2](https://user-images.githubusercontent.com/36085908/68927763-89b5b880-0799-11ea-893e-f2fb20cba97d.png)
+![НОВЫЙскрин3лаба2png](https://user-images.githubusercontent.com/36085908/68927842-bff33800-0799-11ea-8f91-d10be1da3c56.png)
+
 
 ![скрин4лаба2](https://user-images.githubusercontent.com/36085908/68924749-8834c200-0792-11ea-9671-dbaae4b171e8.png)
 
