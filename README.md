@@ -29,7 +29,7 @@
 
 ![скрин1лаба3png](https://user-images.githubusercontent.com/36085908/68926385-735a2d80-0796-11ea-81ab-dc19b523e5c2.png)
 
-[текст1лаба3.txt](https://github.com/isagel/isagel.github.io/files/3850405/1.3.txt)
+[текст.txt](https://github.com/isagel/isagel.github.io/files/3850405/1.3.txt)
 
 ## Лабораторная 4
 
