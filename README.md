@@ -102,6 +102,6 @@ DFD для блока А13
 
 Диаграмма классов для программных модулей
 
-![d4]()
+![d4](https://github.com/isagel/isagel.github.io/blob/master/%D0%BB6.4.png?raw=true)
 
 ## Лабораторная 7
