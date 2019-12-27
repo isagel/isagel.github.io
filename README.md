@@ -82,7 +82,8 @@ DFD для блока А12
 
 DFD для блока А13
 
-![a13]()
+![a13](https://github.com/isagel/isagel.github.io/blob/master/%D0%BB5%D0%9013.png?raw=true)
+
 
 ## Лабораторная 6
 
