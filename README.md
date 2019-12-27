@@ -89,7 +89,7 @@ DFD для блока А13
 
 Диаграмма классов для потоков
 
-![d1]()
+![d1](https://github.com/isagel/isagel.github.io/blob/master/%D0%9B6.1.png?raw=true)
 
 Диаграмма классов для ролей
 
