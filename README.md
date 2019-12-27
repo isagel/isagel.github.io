@@ -69,7 +69,7 @@ A3 Построение воксельной модели
 
 А3
 
-![a3]()
+![a3](https://github.com/isagel/isagel.github.io/blob/master/%D0%BB4%D0%903.png?raw=true)
 
 ## Лабораторная 5
 DFD для блока А11
