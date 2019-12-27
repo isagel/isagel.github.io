@@ -78,7 +78,7 @@ DFD для блока А11
 
 DFD для блока А12
 
-![a12](https://github.com/isagel/isagel.github.io/blob/master/%D0%BB4%D0%902.png?raw=true)
+![a12](https://github.com/isagel/isagel.github.io/blob/master/%D0%9B5%D0%9012.png?raw=true)
 
 DFD для блока А13
 
