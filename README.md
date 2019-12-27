@@ -94,7 +94,7 @@ DFD для блока А13
 Диаграмма классов для ролей
 
 
-![d2]()
+![d2](https://github.com/isagel/isagel.github.io/blob/master/%D0%BB6.2.png?raw=true)
 
 Диаграмма классов для модулей
 
