@@ -65,7 +65,7 @@ A3 Построение воксельной модели
 ![a1](https://github.com/isagel/isagel.github.io/blob/master/%D0%BB4%D0%901.png?raw=true)
 А2
 
-![a2]()
+![a2](https://github.com/isagel/isagel.github.io/blob/master/%D0%BB4%D0%902.png?raw=true)
 
 А3
 
