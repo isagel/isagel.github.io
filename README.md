@@ -98,7 +98,7 @@ DFD для блока А13
 
 Диаграмма классов для модулей
 
-![d3]()
+![d3](https://github.com/isagel/isagel.github.io/blob/master/%D0%BB6.3.png?raw=true)
 
 Диаграмма классов для программных модулей
 
