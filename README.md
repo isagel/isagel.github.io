@@ -74,7 +74,7 @@ A3 Построение воксельной модели
 ## Лабораторная 5
 DFD для блока А11
 
-![a11]()
+![a11](https://github.com/isagel/isagel.github.io/blob/master/%D0%9B5%D0%9011.png?raw=true)
 
 DFD для блока А12
 
